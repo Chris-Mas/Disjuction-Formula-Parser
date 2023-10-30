@@ -1,0 +1,2 @@
+# Disjuction-Formula-Parser
+一个用于练习如何使用github开发的初级项目，源于大二作业。包含主析取范式解析器的实现和一些测试文件
