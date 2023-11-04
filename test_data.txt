@@ -1,0 +1,14 @@
+aaa
+a+!a
+a!a
+ab+cd
+p*q+r
+(m+n)l
+(!a+!c)
+ef*g
+p*q+(r!s)
+!x+yz
+st+!!t
+!! !!! !!!!      !!!!!!!!!!!!h
+uv * (w +     xyz)
+((!!!((!a+!b)c+(de)*f)g+hi(!j!!k+l)+m*n)o!p+!!q*r)(!s+t) + uv * (w +     xyz)
